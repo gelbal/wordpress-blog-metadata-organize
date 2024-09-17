@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "wordpress-blog-metadata-organizer"
 version = "0.1.0"
-description = "A tool to enhance WordPress.com blog content using NLP and ML techniques""
+description = "A tool to enhance WordPress.com blog content using NLP and ML techniques"
 authors = ["Fırat Gelbal <firat.gelbal@automattic.com>"]
 readme = "README.md"
 
