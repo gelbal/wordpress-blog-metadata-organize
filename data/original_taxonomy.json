@@ -1,0 +1,1150 @@
+[
+  {
+    "ID": 4159,
+    "title": "Data Talks &amp; Conferences Recommended by\u00a0Automatticians",
+    "URL": "https://datateam0.wpcomstaging.com/2024/05/15/data-talks-conferences-recommended-by-automatticians/",
+    "tags": [
+      "Data careers",
+      "Data Science",
+      "distributed work",
+      "remote work"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 4155,
+    "title": "What your neurodivergent colleagues wish you\u00a0knew",
+    "URL": "https://datateam0.wpcomstaging.com/2024/04/03/what-your-neurodivergent-colleagues-wish-you-knew/",
+    "tags": [
+      "distributed work",
+      "remote work"
+    ],
+    "category": "Interview"
+  },
+  {
+    "ID": 4150,
+    "title": "From Support to Data Science and Analytics: My Journey at\u00a0Automattic",
+    "URL": "https://datateam0.wpcomstaging.com/2024/01/24/from-support-to-data-science-and-analytics-my-journey-at-automattic/",
+    "tags": [
+      "data analytics",
+      "Data careers",
+      "Data Engineering",
+      "Data Science",
+      "tech"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 4146,
+    "title": "Hack Project: Creating a tool to translate customer feedback into product\u00a0insights",
+    "URL": "https://datateam0.wpcomstaging.com/2023/12/18/hack-project-creating-a-tool-to-translate-customer-feedback-into-product-insights/",
+    "tags": [
+      "artificial intelligence",
+      "Data Science",
+      "Data Visualization",
+      "distributed work",
+      "meetup"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 4143,
+    "title": "Hack Project: Tackling FOMO on the P2\u00a0Land",
+    "URL": "https://datateam0.wpcomstaging.com/2023/12/04/hack-project-tackling-fomo-on-the-p2-land/",
+    "tags": [
+      "communication",
+      "distributed work",
+      "machine learning",
+      "productivity",
+      "remote work"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 4140,
+    "title": "Optimizing Connections at Meetups",
+    "URL": "https://datateam0.wpcomstaging.com/2023/11/13/optimizing-connections-at-meetups/",
+    "tags": [
+      "distributed work",
+      "meetup",
+      "social science"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 4135,
+    "title": "Synchronizing Data with Apache Superset: Our Internal Solution",
+    "URL": "https://datateam0.wpcomstaging.com/2023/11/06/synchronizing-data-with-apache-superset-our-internal-solution/",
+    "tags": [
+      "tooling"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3649,
+    "title": "The New Face of Jetpack Stats",
+    "URL": "https://datateam0.wpcomstaging.com/2023/08/30/the-new-face-of-jetpack-stats/",
+    "tags": [
+      "distributed work",
+      "Jetpack",
+      "remote work"
+    ],
+    "category": "Data Visualization"
+  },
+  {
+    "ID": 3613,
+    "title": "Quest for Efficient AI: An Evaluation of the Vector Database Landscape",
+    "URL": "https://datateam0.wpcomstaging.com/2023/08/07/quest-for-efficient-ai-an-evaluation-of-the-vector-database-landscape/",
+    "tags": [
+      "artificial intelligence",
+      "Automattic",
+      "Semantic Search"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3580,
+    "title": "Visualizing Diversity at Automattic",
+    "URL": "https://datateam0.wpcomstaging.com/2023/07/05/visualizing-diversity-at-automattic/",
+    "tags": [
+      "diversity"
+    ],
+    "category": "Data Visualization"
+  },
+  {
+    "ID": 3530,
+    "title": "Tips for a healthy work-life balance for people starting at a remote company",
+    "URL": "https://datateam0.wpcomstaging.com/2023/05/23/tips-for-a-healthy-work-life-balance-for-people-starting-at-a-remote-company/",
+    "tags": [
+      "distributed work",
+      "remote work",
+      "work life balance"
+    ],
+    "category": "Distributed Work"
+  },
+  {
+    "ID": 3520,
+    "title": "How to Organize a Data Book Club at Work",
+    "URL": "https://datateam0.wpcomstaging.com/2023/04/19/how-to-organize-a-data-book-club-at-work/",
+    "tags": [
+      "Book Club",
+      "books",
+      "distributed work",
+      "learning"
+    ],
+    "category": "Reading"
+  },
+  {
+    "ID": 3506,
+    "title": "Women of Datamattic | Menaka Sankaralingam",
+    "URL": "https://datateam0.wpcomstaging.com/2023/03/22/women-of-datamattic-menaka-sankaralingam/",
+    "tags": [
+      "Data careers",
+      "distributed work",
+      "work life balance"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3494,
+    "title": "Women of Datamattic: Madison Swain-Bowden",
+    "URL": "https://datateam0.wpcomstaging.com/2023/03/15/women-of-datamattic-madison-swain-bowden/",
+    "tags": [
+      "Data careers",
+      "work life balance"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3671,
+    "title": "Women of Datamattic: Anna Elek",
+    "URL": "https://datateam0.wpcomstaging.com/2023/03/08/women-of-datamattic-anna-elek/",
+    "tags": [
+      "Data careers",
+      "work life balance"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3670,
+    "title": "The Data Docs: A WordPress based Data Discoverability Tool",
+    "URL": "https://datateam0.wpcomstaging.com/2023/03/02/the-data-docs-a-wordpress-based-data-discoverability-tool/",
+    "tags": [
+      "API",
+      "Data Discoverability",
+      "P2",
+      "tooling",
+      "WordPress"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3427,
+    "title": "Stocking Stuffers for the Data Team",
+    "URL": "https://datateam0.wpcomstaging.com/2022/12/22/stocking-stuffers-for-the-data-team/",
+    "tags": [
+      "books",
+      "distributed work",
+      "remote work"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3406,
+    "title": "Automattic\u2019s First Data+ Meetup",
+    "URL": "https://datateam0.wpcomstaging.com/2022/12/16/automattics-first-data-meetup/",
+    "tags": [
+      "distributed work",
+      "meetup",
+      "remote work"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3370,
+    "title": "How to Save Time with Alfred, Stream Deck, and Apple Shortcuts",
+    "URL": "https://datateam0.wpcomstaging.com/2022/12/12/how-to-save-time-with-alfred-stream-deck-and-apple-shortcuts/",
+    "tags": [
+      "automation",
+      "distributed work",
+      "productivity",
+      "remote work"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3342,
+    "title": "How to profit from an Analytics Skill Matrix",
+    "URL": "https://datateam0.wpcomstaging.com/2022/11/21/how-to-profit-from-an-analytics-skill-matrix/",
+    "tags": [
+      "data analytics",
+      "Data careers",
+      "data scientist",
+      "distributed work"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3227,
+    "title": "Challenge Hiring Assumptions with Data",
+    "URL": "https://datateam0.wpcomstaging.com/2022/04/08/challenge-hiring-assumptions-with-data/",
+    "tags": [],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3209,
+    "title": "Advance your Career with Automattic Rotations",
+    "URL": "https://datateam0.wpcomstaging.com/2021/09/27/advance-your-career-with-automattic-rotations/",
+    "tags": [
+      "work life balance"
+    ],
+    "category": "Interview"
+  },
+  {
+    "ID": 3197,
+    "title": "Join us at Tumblr!",
+    "URL": "https://datateam0.wpcomstaging.com/2021/08/27/join-us-at-tumblr/",
+    "tags": [
+      "analytics",
+      "distributed work",
+      "elasticsearch",
+      "machine learning",
+      "remote work"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3178,
+    "title": "ExPlat\u2019s Development Principles and Practices",
+    "URL": "https://datateam0.wpcomstaging.com/2021/08/06/explats-development-principles-and-practices/",
+    "tags": [
+      "a/b testing",
+      "Automattic",
+      "coding conventions",
+      "software engineering",
+      "software testing"
+    ],
+    "category": "Experimentation Platform"
+  },
+  {
+    "ID": 3132,
+    "title": "Architecting ExPlat: Automattic\u2019s New Experimentation Platform",
+    "URL": "https://datateam0.wpcomstaging.com/2021/04/14/architecting-explat-automattics-new-experimentation-platform/",
+    "tags": [
+      "ab testing",
+      "Data Science",
+      "experimentation",
+      "software architecture",
+      "software engineering"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3117,
+    "title": "ExPlat: Automattic\u2019s Experimentation Platform",
+    "URL": "https://datateam0.wpcomstaging.com/2021/03/16/explat-automattics-experimentation-platform/",
+    "tags": [],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3099,
+    "title": "Being globally distributed: a constant reminder to have an open mind and more",
+    "URL": "https://datateam0.wpcomstaging.com/2021/03/09/being-globally-distributed/",
+    "tags": [
+      "distributed work",
+      "remote work",
+      "tech"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3092,
+    "title": "SQL \u2014 a Common Language for the Whole Data Team",
+    "URL": "https://datateam0.wpcomstaging.com/2021/02/22/sql-a-common-language-for-the-whole-data-team/",
+    "tags": [],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3077,
+    "title": "&#8220;I found a lot of new and exciting ways to break WordPress.com&#8221;: Highlights of our time at Automattic",
+    "URL": "https://datateam0.wpcomstaging.com/2020/12/16/highlights-of-our-time-at-automattic/",
+    "tags": [
+      "analytics",
+      "distributed work",
+      "elasticsearch",
+      "machine learning",
+      "marketing",
+      "marketing science",
+      "remote work",
+      "tech"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3047,
+    "title": "One Pandemic, Four Countries and Six Different Stories",
+    "URL": "https://datateam0.wpcomstaging.com/2020/11/05/one-pandemic-four-countries-and-six-different-stories/",
+    "tags": [
+      "covid-19",
+      "digital minimalism",
+      "distributed work",
+      "remote work",
+      "tech",
+      "work life balance"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 3028,
+    "title": "Teaching Python to Beginners",
+    "URL": "https://datateam0.wpcomstaging.com/2020/10/20/teaching-python-to-beginners/",
+    "tags": [
+      "Python"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 2980,
+    "title": "Five Paths to Automattic",
+    "URL": "https://datateam0.wpcomstaging.com/2020/10/06/five-paths-to-automattic/",
+    "tags": [
+      "data analytics",
+      "Data careers",
+      "Data Engineering",
+      "Data Science",
+      "distributed work",
+      "tech"
+    ],
+    "category": "Data at Automattic"
+  },
+  {
+    "ID": 2959,
+    "title": "Boris Gorelik on the biggest missed opportunity in data visualization",
+    "URL": "https://datateam0.wpcomstaging.com/2020/09/17/boris-gorelik-on-the-biggest-missed-opportunity-in-data-visualization/",
+    "tags": [
+      "Boris Gorelik",
+      "Data Speaker Series",
+      "effective communication",
+      "scientific communication"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2949,
+    "title": "How to Avoid Statistical Bootstrapping Pitfalls",
+    "URL": "https://datateam0.wpcomstaging.com/2019/10/10/how-to-avoid-statistical-bootstrapping-pitfalls/",
+    "tags": [
+      "analytics",
+      "statistics"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2928,
+    "title": "Gender and Racial Bias in Cloud NLP Sentiment APIs",
+    "URL": "https://datateam0.wpcomstaging.com/2019/08/21/gender-and-racial-bias-in-cloud-nlp-sentiment-apis/",
+    "tags": [
+      "Amazon",
+      "bias",
+      "gender bias",
+      "Google",
+      "natural language processing",
+      "racial bias"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2903,
+    "title": "Christo Wilson Discusses the Ethics of Online Behavioral Experiments",
+    "URL": "https://datateam0.wpcomstaging.com/2019/07/24/christo-wilson-discusses-the-ethics-of-online-behavioral-experiments/",
+    "tags": [
+      "Christo Wilson",
+      "data ethics",
+      "ethics",
+      "Online Behavioral Experiments"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2859,
+    "title": "Using ML for Campaign Optimization: Our Journey to Marketing Science at Automattic",
+    "URL": "https://datateam0.wpcomstaging.com/2019/06/10/using-ml-for-campaign-optimization-our-journey-to-marketing-science-at-automattic/",
+    "tags": [
+      "campaign optimisation",
+      "marketing science",
+      "pipe",
+      "uplift modelling"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2846,
+    "title": "Data Science Insights from Cameron Davidson-Pilon",
+    "URL": "https://datateam0.wpcomstaging.com/2019/05/23/data-science-insights-from-cameron-davidson-pilon/",
+    "tags": [
+      "best practices",
+      "causal inference",
+      "Data Speaker Series"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2833,
+    "title": "This Week in Data Reading: Project Estimation, Abandoning Significance, and Video Games.",
+    "URL": "https://datateam0.wpcomstaging.com/2019/04/26/this-week-in-data-reading-project-estimation-abandoning-significance-and-video-games/",
+    "tags": [
+      "artificial intelligence",
+      "statistics"
+    ],
+    "category": "Reading"
+  },
+  {
+    "ID": 2820,
+    "title": "Looker NYC Meetup",
+    "URL": "https://datateam0.wpcomstaging.com/2019/03/28/looker-nyc-meetup/",
+    "tags": [],
+    "category": "Data Visualization"
+  },
+  {
+    "ID": 2809,
+    "title": "This Week in Data Reading: Experimentation, Tech and the Humanities, and Eliminating Bias in Testing",
+    "URL": "https://datateam0.wpcomstaging.com/2019/03/21/this-week-in-data-reading-experimentation-tech-and-the-humanities-and-eliminating-bias-in-testing/",
+    "tags": [
+      "experimentation",
+      "Pinterest",
+      "technology",
+      "testing bias",
+      "the humanities"
+    ],
+    "category": "Reading"
+  },
+  {
+    "ID": 2791,
+    "title": "The 2019 Fairness, Accountability, and Transparency Conference",
+    "URL": "https://datateam0.wpcomstaging.com/2019/02/26/the-2019-fairness-accountability-and-transparency-conference/",
+    "tags": [
+      "accountability",
+      "artificial intelligence",
+      "conference",
+      "fairness",
+      "justice",
+      "transparency"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2780,
+    "title": "This Week In Data Reading: MOOCs, Collusion in Artificial Intelligence, and Fake News",
+    "URL": "https://datateam0.wpcomstaging.com/2019/02/19/this-week-in-data-reading-moocs-collusion-in-artificial-intelligence-and-fake-news/",
+    "tags": [
+      "artificial intelligence",
+      "collusion",
+      "fake news",
+      "MOOCs"
+    ],
+    "category": "Reading"
+  },
+  {
+    "ID": 2749,
+    "title": "How to Increase Retention and Revenue in 1,000 Nontrivial Steps",
+    "URL": "https://datateam0.wpcomstaging.com/2019/01/15/how-to-increase-retention-and-revenue-in-1000-nontrivial-steps/",
+    "tags": [
+      "marketing",
+      "pipe",
+      "retention",
+      "survival analysis"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2713,
+    "title": "Building Thousands of Reproducible ML Models with pipe, the Automattic Machine Learning Pipeline",
+    "URL": "https://datateam0.wpcomstaging.com/2019/01/08/building-thousands-of-reproducible-ml-models-with-pipe-the-automattic-machine-learning-pipeline/",
+    "tags": [
+      "machine learning",
+      "pipe"
+    ],
+    "category": "Data Engineering"
+  },
+  {
+    "ID": 2690,
+    "title": "Missed Opportunities for Using Text in Data Visualization",
+    "URL": "https://datateam0.wpcomstaging.com/2018/12/04/missed-opportunities-for-using-text-in-data-visualization/",
+    "tags": [
+      "Richard Brath"
+    ],
+    "category": "Data Visualization"
+  },
+  {
+    "ID": 2693,
+    "title": "Links Worth Sharing: What Makes People Successful",
+    "URL": "https://datateam0.wpcomstaging.com/2018/11/27/links-worth-sharing-what-makes-people-successful/",
+    "tags": [
+      "Albert-L\u00e1szl\u00f3 Barab\u00e1si"
+    ],
+    "category": "Reading"
+  },
+  {
+    "ID": 2677,
+    "title": "Introducing pipe, The Automattic Machine Learning Pipeline",
+    "URL": "https://datateam0.wpcomstaging.com/2018/11/15/introducing-pipe-the-automattic-machine-learning-pipeline/",
+    "tags": [
+      "machine learning",
+      "marketing",
+      "models",
+      "pipe"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2667,
+    "title": "Links Worth Sharing: The Training and Security of Neural Networks",
+    "URL": "https://datateam0.wpcomstaging.com/2018/10/31/links-worth-sharing-the-training-and-security-of-neural-networks/",
+    "tags": [
+      "neural networks",
+      "security"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2637,
+    "title": "The Most Beautiful Social Network: the Structure of Communication at Automattic",
+    "URL": "https://datateam0.wpcomstaging.com/2018/10/17/the-most-beautiful-social-network-the-structure-of-communication-at-automattic/",
+    "tags": [
+      "hr analytics",
+      "remote work",
+      "science of work"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2654,
+    "title": "Conference Recap: EuroSciPy 2018",
+    "URL": "https://datateam0.wpcomstaging.com/2018/09/18/conference-recap-euroscipy-2018/",
+    "tags": [
+      "conference",
+      "euroscipy",
+      "open source",
+      "Python"
+    ],
+    "category": "Data Visualization"
+  },
+  {
+    "ID": 2615,
+    "title": "We&#8217;re Reading About Bandit Algorithms, Binary Classification Problems, and Artificial Intelligence",
+    "URL": "https://datateam0.wpcomstaging.com/2018/08/07/were-reading-about-bandit-algorithms-binary-classification-problems-and-artificial-intelligence/",
+    "tags": [
+      "algorithms",
+      "artificial intelligence",
+      "binary classification"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2597,
+    "title": "Investigating Seasonality in a Time Series: A Mystery in Three Parts",
+    "URL": "https://datateam0.wpcomstaging.com/2018/07/24/investigating-seasonality-in-a-time-series-a-mystery-in-three-parts/",
+    "tags": [
+      "analysis",
+      "seasonality",
+      "time series"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2585,
+    "title": "Reflections From Spark + AI Summit 2018",
+    "URL": "https://datateam0.wpcomstaging.com/2018/06/26/reflections-from-spark-ai-summit-2018/",
+    "tags": [
+      "heatmaps",
+      "Java",
+      "neural networks",
+      "Python",
+      "Spark",
+      "Strava"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2563,
+    "title": "We&#8217;re Reading About AI, Data Visualization, Deep Learning, and More",
+    "URL": "https://datateam0.wpcomstaging.com/2018/04/26/were-reading-about-ai-data-visualization-deep-learning-and-more/",
+    "tags": [
+      "artificial intelligence",
+      "Data Visualization",
+      "databases",
+      "Deep Learning",
+      "LTSM",
+      "machine learning",
+      "neural networks"
+    ],
+    "category": "Reading"
+  },
+  {
+    "ID": 2538,
+    "title": "This Week We&#8217;re Reading the 2018 Stack Overflow Survey",
+    "URL": "https://datateam0.wpcomstaging.com/2018/03/27/this-week-were-reading-the-2018-stack-overflow-survey/",
+    "tags": [
+      "bias",
+      "gender",
+      "surveys",
+      "this week in data reading",
+      "working conditions"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2514,
+    "title": "Engineering Data Science at Automattic",
+    "URL": "https://datateam0.wpcomstaging.com/2018/03/20/engineering-data-science-at-automattic/",
+    "tags": [
+      "best practices",
+      "CircleCI",
+      "code reviews",
+      "Conda",
+      "continuous integration",
+      "Git",
+      "Python",
+      "software engineering"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2493,
+    "title": "Data Speaker Series: Kevin Ferguson on AlphaGo Zero",
+    "URL": "https://datateam0.wpcomstaging.com/2018/03/06/data-speaker-series-kevin-ferguson-on-alphago-zero/",
+    "tags": [
+      "artificial intelligence",
+      "Data Speaker Series",
+      "Go",
+      "Kevin Ferguson",
+      "machine learning"
+    ],
+    "category": "Interview"
+  },
+  {
+    "ID": 2483,
+    "title": "This Week We&#8217;re Reading About Artificial Intelligence and Machine Learning",
+    "URL": "https://datateam0.wpcomstaging.com/2018/02/20/this-week-were-reading-about-artificial-intelligence-and-machine-learning/",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "particle physics"
+    ],
+    "category": "Reading"
+  },
+  {
+    "ID": 2394,
+    "title": "Analysis of A Beautiful Storm: Internal Communication at Automattic",
+    "URL": "https://datateam0.wpcomstaging.com/2018/02/01/analysis-of-a-beautiful-storm-internal-communication-at-automattic/",
+    "tags": [
+      "analysis",
+      "communication",
+      "interaction",
+      "remote work",
+      "science",
+      "science of work",
+      "work"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2366,
+    "title": "To a Poem is a Bott the Stranger",
+    "URL": "https://datateam0.wpcomstaging.com/2018/01/19/to-a-poem-is-a-bott-the-stranger/",
+    "tags": [
+      "bot",
+      "experiments",
+      "neural networks",
+      "poetry"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2372,
+    "title": "Do New Year&#8217;s Resolutions Work? Data Suggests They Do!",
+    "URL": "https://datateam0.wpcomstaging.com/2017/12/26/do-new-years-resolutions-work-data-suggests-they-do/",
+    "tags": [
+      "analysis",
+      "blogging",
+      "data",
+      "New Year's resolutions",
+      "science"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2351,
+    "title": "We&#8217;re Reading About Artificially Intelligent Harry Potter Fan Fiction, Verifying Online Identities, and More",
+    "URL": "https://datateam0.wpcomstaging.com/2017/12/19/were-reading-about-artificially-intelligent-harry-potter-fan-fiction-verifying-online-identities-and-more/",
+    "tags": [
+      "artificial intelligence",
+      "chess",
+      "fan fiction",
+      "Harry Potter",
+      "math",
+      "net neutrality",
+      "replicability crisis",
+      "social psychology"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2332,
+    "title": "Doing the Math on Key Words and Top Level Domains",
+    "URL": "https://datateam0.wpcomstaging.com/2017/12/12/doing-the-math-on-key-words-and-top-level-domains/",
+    "tags": [
+      "analysis",
+      "Latex",
+      "Top Level Domains"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2320,
+    "title": "We&#8217;re Reading About Simplifying Without Distortion and Adversarial Image Classification",
+    "URL": "https://datateam0.wpcomstaging.com/2017/11/14/were-reading-about-simplifying-without-distortion-and-adversarial-image-classification/",
+    "tags": [
+      "Adversarial Image Classification",
+      "Ben Orlin",
+      "Desmond Morris"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2254,
+    "title": "Data Speaker Series: Shaun Lindsay on the Data Science of Marketing",
+    "URL": "https://datateam0.wpcomstaging.com/2017/10/31/data-speaker-series-shaun-lindsay-on-the-data-science-of-marketing/",
+    "tags": [
+      "data scientist",
+      "Data Speaker Series",
+      "guest speaker",
+      "Honor",
+      "marketing",
+      "Shaun Lindsay",
+      "statistics"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2222,
+    "title": "We&#8217;re Reading About Bias in AI, SpaceX, and More",
+    "URL": "https://datateam0.wpcomstaging.com/2017/10/17/were-reading-about-bias-in-ai-spacex-and-more/",
+    "tags": [
+      "algorithms",
+      "artificial intelligence",
+      "Facebook",
+      "imposter syndrome",
+      "p-values",
+      "SpaceX",
+      "Spotify",
+      "WaveNet"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 2163,
+    "title": "Data Speaker Series: Charles Earl on Discriminatory Artificial Intelligence",
+    "URL": "https://datateam0.wpcomstaging.com/2017/10/04/data-speaker-series-charles-earl-on-discriminatory-artificial-intelligence/",
+    "tags": [
+      "artificial intelligence",
+      "Data Speaker Series",
+      "machine learning"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1971,
+    "title": "Easier A/B Tests with Automattic\u2019s Own Tool, Hypotheses",
+    "URL": "https://datateam0.wpcomstaging.com/2017/09/05/easier-ab-tests-with-automattics-own-tool-hypotheses/",
+    "tags": [
+      "ab testing",
+      "analysis",
+      "hypotheses-tests",
+      "statistics"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1957,
+    "title": "This Week in Data Reading (and Watching!)",
+    "URL": "https://datateam0.wpcomstaging.com/2017/08/29/this-week-in-data-reading-and-watching-2/",
+    "tags": [
+      "algorithms",
+      "big data",
+      "Google Brain",
+      "machine-made music",
+      "Magenta",
+      "morality in data"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1890,
+    "title": "Data Speaker Series: Thorsten Dietzsch on Building Data Products at Zalando",
+    "URL": "https://datateam0.wpcomstaging.com/2017/08/15/data-speaker-series-thorsten-dietzsch-on-building-data-products-at-zalando/",
+    "tags": [
+      "data products",
+      "Data Speaker Series",
+      "product management",
+      "Thorsten Dietzsch",
+      "Zalando"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1701,
+    "title": "How Communication Density Fuels Automattic",
+    "URL": "https://datateam0.wpcomstaging.com/2017/08/08/how-communication-density-fuels-automattic/",
+    "tags": [
+      "hr analytics"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1693,
+    "title": "This Week in Data Reading",
+    "URL": "https://datateam0.wpcomstaging.com/2017/07/25/this-week-in-data-reading-7/",
+    "tags": [
+      "artificial intelligence",
+      "data ethics",
+      "descriptive data analysis",
+      "ethics",
+      "machine learning",
+      "Turing Institute"
+    ],
+    "category": "Reading"
+  },
+  {
+    "ID": 1578,
+    "title": "Real-Time Elasticsearch Indexing on WordPress.com",
+    "URL": "https://datateam0.wpcomstaging.com/2017/07/11/real-time-elasticsearch-indexing-on-wordpress-com/",
+    "tags": [
+      "databases",
+      "elasticsearch",
+      "indexing",
+      "MySQL",
+      "WordPress.com"
+    ],
+    "category": "Data Engineering"
+  },
+  {
+    "ID": 1486,
+    "title": "data.coalesce() &#8212; Automattic Data Division Meets in Montr\u00e9al",
+    "URL": "https://datateam0.wpcomstaging.com/2017/06/29/data-coalesce-automattic-data-division-meets-in-montreal/",
+    "tags": [
+      "data",
+      "learning",
+      "meetup",
+      "science",
+      "scientists"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1386,
+    "title": "Time Series Analysis: When \u201cGood Enough\u201d is Good Enough",
+    "URL": "https://datateam0.wpcomstaging.com/2017/06/12/timeseries-analysis/",
+    "tags": [
+      "anomaly",
+      "Data Visualization",
+      "timeseries"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1391,
+    "title": "This Week in Data Reading",
+    "URL": "https://datateam0.wpcomstaging.com/2017/06/06/this-week-in-data-reading-6/",
+    "tags": [
+      "algorithm",
+      "analytics",
+      "machine learning",
+      "MySQL",
+      "pop lyrics"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1251,
+    "title": "May the Bot Be With You: How Algorithms are Supporting Happiness at WordPress.com",
+    "URL": "https://datateam0.wpcomstaging.com/2017/05/24/may-the-bot-be-with-you-how-algorithms-are-supporting-happiness-at-wordpress-com/",
+    "tags": [
+      "algorithms",
+      "bots",
+      "Happiness Engineering",
+      "machine learning",
+      "natural language processing",
+      "support"
+    ],
+    "category": "Data Engineering"
+  },
+  {
+    "ID": 1236,
+    "title": "This Week in Data Reading (and Watching!)",
+    "URL": "https://datateam0.wpcomstaging.com/2017/05/16/this-week-in-data-reading-and-watching/",
+    "tags": [
+      "artificial intelligence",
+      "demographic targeting",
+      "Facebook",
+      "learning algorithms",
+      "Siraj Raval",
+      "YouTube"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1229,
+    "title": "This Week in Data Reading",
+    "URL": "https://datateam0.wpcomstaging.com/2017/04/18/this-week-in-data-reading-5/",
+    "tags": [
+      "charts",
+      "graphs",
+      "tables"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1173,
+    "title": "Welcoming New Colleagues \u2014 a Data-Based Story",
+    "URL": "https://datateam0.wpcomstaging.com/2017/04/12/welcoming-new-colleagues-a-data-based-story/",
+    "tags": [
+      "Automattic",
+      "bonding",
+      "community analysis",
+      "distributed work",
+      "human relationships",
+      "Network Science",
+      "social science",
+      "teamwork"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 1156,
+    "title": "This Week in Data Reading",
+    "URL": "https://datateam0.wpcomstaging.com/2017/04/04/this-week-in-data-reading-4/",
+    "tags": [
+      "digital anthropology",
+      "Donald Trump",
+      "natural language processing",
+      "Reddit"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 934,
+    "title": "Improving Relevance and Elasticsearch Query Patterns",
+    "URL": "https://datateam0.wpcomstaging.com/2017/03/15/improving-relevance-and-elasticsearch-query-patterns/",
+    "tags": [
+      "elasticsearch",
+      "plugin repository",
+      "WordPress.org"
+    ],
+    "category": "Search"
+  },
+  {
+    "ID": 916,
+    "title": "This Week in Data Reading",
+    "URL": "https://datateam0.wpcomstaging.com/2017/02/28/this-week-in-data-reading-3/",
+    "tags": [
+      "algorithm",
+      "code",
+      "deep learning architecture",
+      "functional programming languages",
+      "hand-drawn graphics",
+      "Hans Rosling",
+      "W.E.B Du Boise"
+    ],
+    "category": "Data Visualization"
+  },
+  {
+    "ID": 883,
+    "title": "How&#8217;s Your New Year&#8217;s Resolution Going?",
+    "URL": "https://datateam0.wpcomstaging.com/2017/02/21/hows-your-new-years-resolution-going/",
+    "tags": [
+      "data",
+      "elasticsearch",
+      "New Year's resolutions"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 863,
+    "title": "This Week in Data Reading",
+    "URL": "https://datateam0.wpcomstaging.com/2017/01/31/this-week-in-data-reading-2/",
+    "tags": [
+      "critical review",
+      "gender bias",
+      "graph theory",
+      "machine learning models",
+      "natural language processing",
+      "network analysis",
+      "open source",
+      "racial bias",
+      "telemetry",
+      "word embeddings"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 755,
+    "title": "Intro to Search: Measurement",
+    "URL": "https://datateam0.wpcomstaging.com/2017/01/17/intro-to-search-measurement/",
+    "tags": [
+      "Data Science",
+      "information retrieval",
+      "search engines",
+      "WordPress"
+    ],
+    "category": "Search"
+  },
+  {
+    "ID": 712,
+    "title": "This Week in Data Reading",
+    "URL": "https://datateam0.wpcomstaging.com/2017/01/03/this-week-in-data-reading/",
+    "tags": [
+      "artificial intelligence",
+      "data exploration",
+      "Data Science",
+      "machine learning",
+      "natural language processing",
+      "social media"
+    ],
+    "category": "Reading"
+  },
+  {
+    "ID": 581,
+    "title": "A Brand Image Analysis of WordPress and Automattic on Twitter",
+    "URL": "https://datateam0.wpcomstaging.com/2016/12/20/a-brand-image-analysis-of-wordpress-on-twitter/",
+    "tags": [
+      "influencer marketing",
+      "social media",
+      "twitter"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 560,
+    "title": "Bulk Log Analytics With Hive",
+    "URL": "https://datateam0.wpcomstaging.com/2016/11/22/bulk-log-analytics-with-hive/",
+    "tags": [
+      "Hadoop",
+      "Hive"
+    ],
+    "category": "Data Engineering"
+  },
+  {
+    "ID": 445,
+    "title": "Evolution of a Plot: Better Data Visualization, One Step at a Time",
+    "URL": "https://datateam0.wpcomstaging.com/2016/10/25/evolution-of-a-plot-better-data-visualization-one-step-at-a-time/",
+    "tags": [
+      "plot"
+    ],
+    "category": "Data Science"
+  },
+  {
+    "ID": 3454,
+    "title": "Network Science at Automattic: Mapping the Communities of WP.com &#8212; Methodology",
+    "URL": "https://datateam0.wpcomstaging.com/2016/10/11/network-science-at-automattic-mapping-the-communities-of-wp-com-methodology/",
+    "tags": [
+      "community analysis",
+      "Data Science"
+    ],
+    "category": "Network Science"
+  },
+  {
+    "ID": 349,
+    "title": "Intro to Search: Anatomy of a search engine",
+    "URL": "https://datateam0.wpcomstaging.com/2016/09/27/intro-to-search-anatomy-of-a-search-engine/",
+    "tags": [
+      "big data",
+      "Data Science",
+      "information retrieval",
+      "search engines"
+    ],
+    "category": "Search"
+  },
+  {
+    "ID": 3451,
+    "title": "Network Science at Automattic: Mapping the Communities of WP.com",
+    "URL": "https://datateam0.wpcomstaging.com/2016/09/13/network-science-at-automattic-mapping-the-communities-of-wp-com/",
+    "tags": [
+      "community analysis",
+      "Data Science",
+      "topic modeling"
+    ],
+    "category": "Network Science"
+  },
+  {
+    "ID": 3450,
+    "title": "Intro to Search: Initial Considerations",
+    "URL": "https://datateam0.wpcomstaging.com/2016/08/24/intro-to-search-initial-considerations/",
+    "tags": [
+      "big data",
+      "data analysis",
+      "Data Science",
+      "information retrieval"
+    ],
+    "category": "Search"
+  },
+  {
+    "ID": 3452,
+    "title": "State of WordPress.com Elasticsearch Systems 2016",
+    "URL": "https://datateam0.wpcomstaging.com/2016/05/03/state-of-wordpress-com-elasticsearch-systems-2016/",
+    "tags": [
+      "elasticsearch"
+    ],
+    "category": "Data Engineering"
+  },
+  {
+    "ID": 3455,
+    "title": "Data for nothing and bytes for free",
+    "URL": "https://datateam0.wpcomstaging.com/2014/11/30/data-for-nothing-and-bytes-for-free/",
+    "tags": [
+      "feature engineering",
+      "missing data"
+    ],
+    "category": "Data Science"
+  }
+]
