@@ -49,6 +49,24 @@ Pipeline of llm_taxonomy_update.ipynb looks as the following. We see the loop on
 
 ![Pipeline diagram](image.png)
 
+## About data.blog
+
+This project is based on real work done for [data.blog](https://data.blog), the official blog of Automattic's data team. data.blog serves as a platform for Automattic's data scientists, analysts, and engineers to share insights, methodologies, and learnings from their work in the data field.
+
+data.blog covers a wide range of topics including:
+
+- Data science and machine learning applications
+- Analytics and experimentation at scale
+- Insights into distributed work in data teams
+- Technical deep dives into data engineering and infrastructure
+- Reflections on data ethics and responsible AI
+
+By enhancing the content organization and discoverability of data.blog, this project aims to make it easier for readers to find relevant articles, explore related topics, and gain a deeper understanding of data science in action at Automattic.
+
+We encourage you to visit [data.blog](https://data.blog) to see these improvements in action and to explore the wealth of data-related content shared by Automattic's data team.
+
+This project serves as a practical example of how natural language processing and machine learning techniques can be applied to enhance content organization and user experience in a production environment.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
